@@ -5,3 +5,4 @@ Ideas this community thinks are important. So if anyone wants to work on them, t
 | ----- | ----------- | ------ | ------------------------------- | --------- | ---------- |
 | Women teach coding | It's a work in progress project, the idea is to create a comprehensive list of learning resources made by women in tech. | Work in progress | [Women teach coding repo](https://github.com/ninabreznik/women-teach-coding) | [@ninabreznik](https://github.com/ninabreznik) | I started it but have little time to continue so if anyone would like to collaborate and push it forward, please!|
 | Nomad apartment swap | I would like to have an app/list of all nomads who have their apartments in another country and would like to swap so we can just exchange places | Idea only | No repo | / |
+| ultralight stuff online store  | I would like to have an app to maintain my personal inventory and offer it for exchange or sale and also browse other peoples stuff | Idea only | No repo | / |
